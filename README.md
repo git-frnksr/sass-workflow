@@ -6,7 +6,7 @@ Basic setup of a SASS workflow using gulp to process scss files and browser-sync
 
 ## Code Example
 
-Show what the library does as concisely as possible, developers should be able to figure out **how** your project solves their problem by looking at the code example. Make sure the API you are showing off is obvious, and that your code is short and concise.
+The gulpfile is setup to transform the scss to css. It also tells gulp the watch for any changes and if there are those changes will be synced by browser-sync.
 
 ## Motivation
 
