@@ -10,7 +10,7 @@ The gulpfile is setup to transform the scss to css. It also tells gulp the watch
 
 ## Motivation
 
-A short description of the motivation behind the creation and maintenance of the project. This should explain **why** the project exists.
+Getting to know SASS and the workflow around transforming SASS to CSS.
 
 ## Installation
 
